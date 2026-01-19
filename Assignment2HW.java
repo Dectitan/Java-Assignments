@@ -59,7 +59,7 @@ public class Assignment2HW extends Parent {
     int y = 20;
 
     public static void main(String[] args) {
-        asignmnt01 obj = new asignmnt01();
+        Assignment2HW obj = new Assignment2HW();
         System.out.println(obj.x);
         System.out.println(obj.y);
     }
